@@ -47,6 +47,10 @@ This project demonstrates how an AI assistant can use external tools and API int
 ## 📸 Workflow Screenshots
 
 Screenshots will be added here.
+<img width="1919" height="866" alt="Travel MCP Server" src="https://github.com/user-attachments/assets/df2bfd62-fd17-4c47-981a-ea78ee2255a9" />
+<img width="1928" height="804" alt="AI_Travel_Assistant screenshot" src="https://github.com/user-attachments/assets/3ea4b2c4-cb3f-49a9-99f9-e32c780babc0" />
+
+
 
 ## 🔐 Security
 
